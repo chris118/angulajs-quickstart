@@ -37,9 +37,6 @@ HeroesComponent = __decorate([
         selector: 'my-heroes',
         templateUrl: './heroes.component.html',
         styleUrls: ['./heroes.component.css'],
-        // styles: [`
-        // `],
-        providers: []
     }),
     __metadata("design:paramtypes", [router_1.Router,
         hero_service_1.HeroService])
